@@ -7,12 +7,6 @@ import kotlin.test.assertFails
 class CipherTest {
     val cipher = CaesarCipher()
 
-    @Before
-    fun create () {
-
-
-    }
-
     @Test
     fun test25Limit () {
         assertFails {
@@ -49,7 +43,7 @@ class CipherTest {
     }
 
     @Test
-    fun `Deciphering an empty string should retur an empty string`() {
+    fun `Deciphering an empty string should return an empty string`() {
         assertEquals("", cipher.decipher(""))
     }
 

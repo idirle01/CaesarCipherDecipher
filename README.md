@@ -2,8 +2,8 @@
 
 
 # Authors
-- bkyle02 (captainrobertnorman)
-- idirle01
+- bkyle02 (captainrobertnorman) Brett Kyle
+- idirle01                      Iulia Dirleci
 
 # Method
 This code was largely written in the SDP class in week 9 (Thursday, 08-03-2018) as part of the SDP coursework portfolio, 

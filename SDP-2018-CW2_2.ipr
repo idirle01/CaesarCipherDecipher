@@ -110,6 +110,9 @@
       <listeners />
     </configuration>
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="KotlinJavaRuntime">
       <CLASSES>

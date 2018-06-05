@@ -1,4 +1,4 @@
-# SDP Assignment Two Caesar Decipher – Pairs Assignment
+# Caesar Cipher and Decipher – Pairs Assignment
 
 
 # Authors
